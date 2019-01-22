@@ -13,7 +13,7 @@ This writing-intensive first-year seminar asks why we go to college - as individ
 
 #### Week 1 (January 23, 2019): Why College? An Introduction
 
-Lecture: Welcome and Introduction 
+Lecture: Welcome and Introduction
 
 #### Week 2 (January 28, 2019): The History of Higher Education in the US
 
@@ -277,7 +277,7 @@ We will sometimes use laptops, primarily in the third hour when we are workshopp
 Here is a partial, in-progress list of writing we drew on to create this syllabus and to write our weekly lectures:
 https://www.zotero.org/groups/1720498/aydelotte_bibliography/items/collectionKey/5L6V5W8C
 
-This syllabus is necessarily an incomplete document; we will revise and save versions of it as the class progresses. The most up-to-date copy will be available on our organization page on github:
+This syllabus is necessarily an incomplete document; we will revise and save versions of it as the class progresses. The most up-to-date copy will be available on our organization page on github:https://github.com/WhyCollege
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
 USA.
