@@ -13,6 +13,8 @@ This writing-intensive first-year seminar asks why we go to college - as individ
 
 #### Week 1 (January 23, 2019): Why College? An Introduction
 
+Lecture: Welcome and Introduction 
+
 #### Week 2 (January 28, 2019): The History of Higher Education in the US
 
 Lecture: a brief history of higher ed in the US
