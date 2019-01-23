@@ -15,6 +15,8 @@ This writing-intensive first-year seminar asks why we go to college - as individ
 
 Lecture: Welcome and Introduction
 
+Workshop: intro to writing about higher education
+
 #### Week 2 (January 28, 2019): The History of Higher Education in the US
 
 Lecture: a brief history of higher ed in the US
@@ -26,9 +28,12 @@ Reading/viewing:
 + Labaree, A Perfect Mess, Conclusion (Ch. 9)
 
 Writing:
-Write a page (300-400 words) on the main argument of *Media U*.
++ one page (300-400 words) on the main argument of *Media U*.
 
-Workshop: revise main argument of *Media U*
+Workshop: collaborative revision of page on main argument of *Media U*
+
+#### Prof. Aldon Morris keynote to [W. E. B. Du Bois and 21st Century Color Line symposium](https://www.swarthmore.edu/cooper-series/critical-conversations-interactive-symposium-w-e-b-du-bois-and-21st-century-color)
+Saturday, February 2, 11 am, LPAC Pearson Theater. Optional but recommended for looking ahead to Week 5.
 
 #### Week 3 (February 4, 2019): Choosing a College
 
@@ -36,23 +41,16 @@ Lecture: the relation between HS and college; the range of higher ed institution
 
 Reading:
 + Tressie McMillan Cottom, *Lower Ed*
-+ Rev of *Lower Ed* in *Inside Higher Ed*
-https://www.insidehighered.com/blogs/confessions-community-college-dean/lower-ed-review
-http://hepg.org/her-home/issues/harvard-educational-review-volume-87-number-4/herbooknote/lower-ed
-+ Rev of *Lower Ed*, *New York Times*
-https://www.nytimes.com/2017/03/07/books/review/lower-ed-tressie-mcmillan-cottom.html
-+ Jason England, “Admissions Confidential”, *Chronicle of Higher Education*, Dec 3 2017
-https://www.chronicle.com/article/Confessions-of-an-Admissions/241919
++ [Rev of *Lower Ed* in *Inside Higher Ed*](https://www.insidehighered.com/blogs/confessions-community-college-dean/lower-ed-review
+http://hepg.org/her-home/issues/harvard-educational-review-volume-87-number-4/herbooknote/lower-ed)
++ [Rev of *Lower Ed*, *New York Times*](https://www.nytimes.com/2017/03/07/books/review/lower-ed-tressie-mcmillan-cottom.html)
++ [Jason England, “Admissions Confidential”, *Chronicle of Higher Education*, Dec 3 2017](https://www.chronicle.com/article/Confessions-of-an-Admissions/241919)
 
 Writing:
-+ Lower ed title and chapter outline
-+ Select three brief representative excerpts from Lower Ed
-+ Describe evidence in Lower Ed
++ *Lower Ed* Review prep sheet (title and chapter outline, three brief representative excerpts, description of evidence types, your version of the main argument)
 + Anatomize one of the *Lower Ed* reviews, paragraph by paragraph
 
-Workshop: writing a review
-
-https://www.nytimes.com/2017/09/15/magazine/new-sentences-from-lower-ed-by-tressie-mcmillan-cottom.html
+Workshop: writing a review - facts + opinions
 
 #### Lili Loofbourow and Aaron Bady on public writing (optional but recommended)
 Thursday, February 7, 4:30-6 pm, Scheuer Room
@@ -71,20 +69,19 @@ https://www.insidehighered.com/news/2017/09/11/reed-college-course-lectures-canc
 Writing:
 + A review of *Lower Ed*
 
+Workshop: revising your *Lower Ed* review
+
 #### Week 5 (February 18, 2019): The Aims of Education: Liberal and Vocational
 
-Lecture:
-Struggles over the purpose of education: a primer for reading contemporary public debate
+Lecture: Struggles over the purpose of education: a primer for reading contemporary public debate
 
 Reading
-+ W.E.B. Dubois, Of the Wings of Atalanta, The Souls of Black Folk
-+ W.E.B. Dubois, Of the Training of Black Men (1902)
-https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/
-+ W.E.B. Dubois, The Afterthought, The Souls of Black Folk
-+ Booker T. Washington, The Awakening of the Negro (1896)
-https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/
-+ Book T. Washington, The Fruits of Industrial Training (1903)
-https://www.theatlantic.com/magazine/archive/1903/10/the-fruits-of-industrial-training/531030/
++ W.E.B. Dubois, Of the Wings of Atalanta, *The Souls of Black Folk*
++ W.E.B. Dubois, [Of the Training of Black Men (1902)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
++ W.E.B. Dubois, The Afterthought, *The Souls of Black Folk*
++ Booker T. Washington, [The Awakening of the Negro (1896)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
++ Book T. Washington, [The Fruits of Industrial Training (1903)](https://www.theatlantic.com/magazine/archive/1903/10/the-fruits-of-industrial-training/531030/)
++ Anna J Cooper, [“The Higher Education of Women” in  A Voice from the South, 1892](https://docsouth.unc.edu/church/cooper/cooper.html#coope48)
 + Lani Guinier, from The Tyranny of the Meritocracy, Chapter Three (2015)
 
 Writing:
@@ -98,12 +95,11 @@ Workshop:
 Lecture: Pedagogy: what it is, how it happens, how college faculty experience it
 
 Reading:
-+ Fred Moton and Stefano Harney, “The University and the Undercommons,”  The Undercommons: Fugitive Planning and Black Study
++ Fred Moton and Stefano Harney, “The University and the Undercommons,” [The Undercommons: Fugitive Planning and Black Study](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)
 + Josephine Miles, Fields of Learning
-+ Sara Ahmed, Against Students
++ Sara Ahmed, [Against Students]
 https://feministkilljoys.com/2015/06/25/against-students/
-+ Kristen Doerer, “Colleges Are Getting Smarter About Student Evaluations. Here’s How,” Chronicle of Higher Education
-https://www.chronicle.com/article/Colleges-Are-Getting-Smarter/245457
++ Kristen Doerer, [“Colleges Are Getting Smarter About Student Evaluations. Here’s How,” Chronicle of Higher Education](https://www.chronicle.com/article/Colleges-Are-Getting-Smarter/245457)
 
 Writing:
 + Personal narrative writing assignment, draft 1
@@ -115,14 +111,14 @@ Workshop: sentences
 Lecture: In Loco Parentis, Moral Citizenship: The More Things Change?
 
 Reading:
-“Magill’s 100 Rules For Conduct”, http://swat150.swarthmore.edu/magills-rules-1.html
-Black Liberation 1969 website https://blacklib1969.swarthmore.edu/
-Michael Sokolove, “A University Comes Undone: How Scandal and Corruption Brought Down a College Powerhouse”, Chronicle of Higher Education, September 28 2018, https://www.chronicle.com/article/How-ScandalCorruption/244666
++ [“Magill’s 100 Rules For Conduct”](http://swat150.swarthmore.edu/magills-rules-1.html)
+[Black Liberation 1969 website](https://blacklib1969.swarthmore.edu/)
+Michael Sokolove, [“A University Comes Undone: How Scandal and Corruption Brought Down a College Powerhouse”, Chronicle of Higher Education, September 28 2018](https://www.chronicle.com/article/How-ScandalCorruption/244666)
 Anand Giridharadas, Winners Take All: The Elite Charade of Changing the World, Chapter One
-Scenes: “Animal House”
+Scenes: [“Animal House”](https://www.youtube.com/watch?v=ROxvT8KKdFw&t=78s)
 
 Writing:
-+ Personal narrative writing assignment, draft 2
++ Personal narrative writing assignment, final draft due
 
 Workshop: writing about data
 
@@ -131,16 +127,20 @@ Workshop: writing about data
 Reading
 + Richard Powers, *Galetea 2.2*
 
-#### Week 9 (March 18, 2019): The academic mission - disciplines, research, scholarship, tenure
+#### Week 9 (March 18, 2019): The academic mission
+
+Lecture: disciplines, research, scholarship, tenure
 
 Reading
 + Richard Powers, *Galetea 2.2*
-+ Ben Schmidt, Should I Major in the Humanities?
-https://www.theatlantic.com/ideas/archive/2018/08/the-humanities-face-a-crisisof-confidence/567565/
++ Ben Schmidt, [Should I Major in the Humanities?](https://www.theatlantic.com/ideas/archive/2018/08/the-humanities-face-a-crisisof-confidence/567565/)
++ tba another short dataset-based essay
 + Supercut: Professors in the movies
 
 Writing:
-+ Dataset essay, draft 1
++ Dataset essay, draft 1 due
+
+Workshop: dataset essay workshop
 
 #### Week 10 (March 25, 2019): Cost, debt, FAFSA
 
@@ -148,15 +148,14 @@ Lecture: Why Is the Tuition So Damn High?
 
 Reading
 + TBA
-+ Fred Moton and Stefano Harney, “Debt and Study,”  The Undercommons: Fugitive Planning and Black Study
-+ Ryann Liebenthal, “The Incredible Rage-Inducing Inside Story of America’s Student Debt Machine”
-+ Nate Kreuter, “Customer Mentality”
-+James V. Koch, “No College Kid Needs a Water Park to Study”
-https://www.nytimes.com/2018/01/09/opinion/trustees-tuition-lazy-rivers.html
++ [The Undercommons: Fugitive Planning and Black Study](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)
++ Ryann Liebenthal, [“The Incredible Rage-Inducing Inside Story of America’s Student Debt Machine”](https://www.motherjones.com/politics/2018/08/debt-student-loan-forgiveness-betsy-devos-education-department-fedloan/)
++ Nate Kreuter, []“Customer Mentality”](https://www.insidehighered.com/views/2014/02/27/essay-critiques-how-student-customer-idea-erodes-key-values-higher-education)
++James V. Koch, [“No College Kid Needs a Water Park to Study”](https://www.nytimes.com/2018/01/09/opinion/trustees-tuition-lazy-rivers.html)
 
 Writing:
-+ Final dataset essay due
-+  historical syllabus  analysis draft 1 -  notes and outline
++ final dataset essay due
++ historical syllabus  analysis notes and outline
 
 
 #### Week 11 (April 1, 2019): Governance and Community: To Whom Does a College Belong?
@@ -166,7 +165,7 @@ Lecture:
 Reading
 + Brian Mitchell and Joseph King, How To Run A College, Chapter 1 and 4 (Governance and Advancement)
 + The Big Chill
-+Uncommon Women and Others
++ Uncommon Women and Others
 + Frederick Van de Water, “The Saturnalia of College Reunions”, Harper’s, 1929
 
 Writing:
