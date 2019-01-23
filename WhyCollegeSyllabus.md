@@ -22,7 +22,7 @@ Workshop: intro to writing about higher education
 Lecture: a brief history of higher ed in the US
 
 Reading/viewing:
-+ The Freshman (1925, 1 hour 15 minutes): https://swarthmore.kanopy.com/video/freshman
++ [The Freshman (1925, 1 hour 15 minutes)](https://swarthmore.kanopy.com/video/freshman)
 + Higher Learning (1995, 2 hours 7 minutes)
 + Media U, Introduction
 + Labaree, A Perfect Mess, Conclusion (Ch. 9)
@@ -32,7 +32,7 @@ Writing:
 
 Workshop: collaborative revision of page on main argument of *Media U*
 
-#### Prof. Aldon Morris keynote to [W. E. B. Du Bois and 21st Century Color Line symposium](https://www.swarthmore.edu/cooper-series/critical-conversations-interactive-symposium-w-e-b-du-bois-and-21st-century-color)
+#### Feb 2: Prof. Aldon Morris keynote to [W. E. B. Du Bois and 21st Century Color Line symposium](https://www.swarthmore.edu/cooper-series/critical-conversations-interactive-symposium-w-e-b-du-bois-and-21st-century-color)
 Saturday, February 2, 11 am, LPAC Pearson Theater. Optional but recommended for looking ahead to Week 5.
 
 #### Week 3 (February 4, 2019): Choosing a College
@@ -41,8 +41,7 @@ Lecture: the relation between HS and college; the range of higher ed institution
 
 Reading:
 + Tressie McMillan Cottom, *Lower Ed*
-+ [Rev of *Lower Ed* in *Inside Higher Ed*](https://www.insidehighered.com/blogs/confessions-community-college-dean/lower-ed-review
-http://hepg.org/her-home/issues/harvard-educational-review-volume-87-number-4/herbooknote/lower-ed)
++ [Rev of *Lower Ed* in *Inside Higher Ed*](https://www.insidehighered.com/blogs/confessions-community-college-dean/lower-ed-review)
 + [Rev of *Lower Ed*, *New York Times*](https://www.nytimes.com/2017/03/07/books/review/lower-ed-tressie-mcmillan-cottom.html)
 + [Jason England, “Admissions Confidential”, *Chronicle of Higher Education*, Dec 3 2017](https://www.chronicle.com/article/Confessions-of-an-Admissions/241919)
 
@@ -52,7 +51,7 @@ Writing:
 
 Workshop: writing a review - facts + opinions
 
-#### Lili Loofbourow and Aaron Bady on public writing (optional but recommended)
+#### Feb 7: Lili Loofbourow and Aaron Bady on public writing (optional but recommended)
 Thursday, February 7, 4:30-6 pm, Scheuer Room
 
 #### Week 4 (February 11, 2019): The Sophomore Plan
@@ -62,8 +61,7 @@ Lecture: general education, curricula, courses
 Reading
 + Eliot, “Liberty in Education”
 + Louis Menand, “The Problem of General Education,” The Marketplace of Ideas (2010)
-+ “The Occupation of Hum 110,” Inside Higher Ed (Sept 11 2017)
-https://www.insidehighered.com/news/2017/09/11/reed-college-course-lectures-canceled-after-student-protesters-interrupt-class
++ [“The Occupation of Hum 110,” Inside Higher Ed (Sept 11 2017)](https://www.insidehighered.com/news/2017/09/11/reed-college-course-lectures-canceled-after-student-protesters-interrupt-class)
 + Catalogs (selected, tba)
 
 Writing:
@@ -76,12 +74,12 @@ Workshop: revising your *Lower Ed* review
 Lecture: Struggles over the purpose of education: a primer for reading contemporary public debate
 
 Reading
-+ W.E.B. Dubois, Of the Wings of Atalanta, *The Souls of Black Folk*
-+ W.E.B. Dubois, [Of the Training of Black Men (1902)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
-+ W.E.B. Dubois, The Afterthought, *The Souls of Black Folk*
-+ Booker T. Washington, [The Awakening of the Negro (1896)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
-+ Book T. Washington, [The Fruits of Industrial Training (1903)](https://www.theatlantic.com/magazine/archive/1903/10/the-fruits-of-industrial-training/531030/)
-+ Anna J Cooper, [“The Higher Education of Women” in  A Voice from the South, 1892](https://docsouth.unc.edu/church/cooper/cooper.html#coope48)
++ W.E.B. Dubois, "Of the Wings of Atalanta,"" *The Souls of Black Folk*
++ W.E.B. Dubois, ["Of the Training of Black Men" (1902)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
++ W.E.B. Dubois, "The Afterthought", *The Souls of Black Folk*
++ Booker T. Washington, ["The Awakening of the Negro" (1896)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
++ Book T. Washington, ["The Fruits of Industrial Training" (1903)](https://www.theatlantic.com/magazine/archive/1903/10/the-fruits-of-industrial-training/531030/)
++ Anna J Cooper, [“The Higher Education of Women” in *A Voice from the South*, 1892](https://docsouth.unc.edu/church/cooper/cooper.html#coope48)
 + Lani Guinier, from The Tyranny of the Meritocracy, Chapter Three (2015)
 
 Writing:
@@ -97,8 +95,7 @@ Lecture: Pedagogy: what it is, how it happens, how college faculty experience it
 Reading:
 + Fred Moton and Stefano Harney, “The University and the Undercommons,” [The Undercommons: Fugitive Planning and Black Study](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)
 + Josephine Miles, Fields of Learning
-+ Sara Ahmed, [Against Students]
-https://feministkilljoys.com/2015/06/25/against-students/
++ Sara Ahmed, [Against Students](https://feministkilljoys.com/2015/06/25/against-students/)
 + Kristen Doerer, [“Colleges Are Getting Smarter About Student Evaluations. Here’s How,” Chronicle of Higher Education](https://www.chronicle.com/article/Colleges-Are-Getting-Smarter/245457)
 
 Writing:
@@ -112,10 +109,10 @@ Lecture: In Loco Parentis, Moral Citizenship: The More Things Change?
 
 Reading:
 + [“Magill’s 100 Rules For Conduct”](http://swat150.swarthmore.edu/magills-rules-1.html)
-[Black Liberation 1969 website](https://blacklib1969.swarthmore.edu/)
-Michael Sokolove, [“A University Comes Undone: How Scandal and Corruption Brought Down a College Powerhouse”, Chronicle of Higher Education, September 28 2018](https://www.chronicle.com/article/How-ScandalCorruption/244666)
-Anand Giridharadas, Winners Take All: The Elite Charade of Changing the World, Chapter One
-Scenes: [“Animal House”](https://www.youtube.com/watch?v=ROxvT8KKdFw&t=78s)
++ [Black Liberation 1969 website](https://blacklib1969.swarthmore.edu/)
++ Michael Sokolove, [“A University Comes Undone: How Scandal and Corruption Brought Down a College Powerhouse”, Chronicle of Higher Education, September 28 2018](https://www.chronicle.com/article/How-ScandalCorruption/244666)
++ Anand Giridharadas, Winners Take All: The Elite Charade of Changing the World, Chapter One
++ Scenes: [“Animal House”](https://www.youtube.com/watch?v=ROxvT8KKdFw&t=78s)
 
 Writing:
 + Personal narrative writing assignment, final draft due
@@ -124,8 +121,7 @@ Workshop: writing about data
 
 #### Week 8 (March 11, 2019): SPRING BREAK
 
-Reading
-+ Richard Powers, *Galetea 2.2*
+Read Richard Powers, *Galetea 2.2*
 
 #### Week 9 (March 18, 2019): The academic mission
 
@@ -150,8 +146,8 @@ Reading
 + TBA
 + [The Undercommons: Fugitive Planning and Black Study](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)
 + Ryann Liebenthal, [“The Incredible Rage-Inducing Inside Story of America’s Student Debt Machine”](https://www.motherjones.com/politics/2018/08/debt-student-loan-forgiveness-betsy-devos-education-department-fedloan/)
-+ Nate Kreuter, []“Customer Mentality”](https://www.insidehighered.com/views/2014/02/27/essay-critiques-how-student-customer-idea-erodes-key-values-higher-education)
-+James V. Koch, [“No College Kid Needs a Water Park to Study”](https://www.nytimes.com/2018/01/09/opinion/trustees-tuition-lazy-rivers.html)
++ Nate Kreuter,[“Customer Mentality”](https://www.insidehighered.com/views/2014/02/27/essay-critiques-how-student-customer-idea-erodes-key-values-higher-education)
++ James V. Koch,[“No College Kid Needs a Water Park to Study”](https://www.nytimes.com/2018/01/09/opinion/trustees-tuition-lazy-rivers.html)
 
 Writing:
 + final dataset essay due
@@ -175,8 +171,8 @@ Writing:
 #### Week 12 (April 8, 2019): Putting it all together I
 
 Reading:
-+ Richard Rodriguez, The Hunger of Memory
-+ Ta-Nehisi Coates, Beautiful Struggle, Chapter 3 (“Africa’s In the House”) and We Were Eight Years in Power (“Why Do So Few Blacks Study the Civil War?”)
++ Richard Rodriguez, *The Hunger of Memory*
++ Ta-Nehisi Coates, *Beautiful Struggle*, Chapter 3 (“Africa’s In the House”) and We Were Eight Years in Power (“Why Do So Few Blacks Study the Civil War?”)
 
 Writing:
 + Op Ed draft 1
@@ -186,7 +182,7 @@ Workshop: Op Ed revision
 #### Week 13 (April 15, 2019): Putting it all together II
 
 Reading:
-+ Zadie Smith, On Beauty
++ Zadie Smith, *On Beauty*
 
 Writing
 + Op Ed final draft due
@@ -197,7 +193,7 @@ Workshop: Manifesto work
 #### Week 14 (April 22, 2019): Putting it all together III
 
 Reading:
-+ Lev Grossman, The Magicians
++ Lev Grossman, *The Magicians*
 
 Writing
 + Manifesto draft 2 due
@@ -226,11 +222,11 @@ Most days we will roughly divide our meeting into three sections. During our fir
 
 #### Books
 The main books you will need to buy are:
-Tressie McMillan Cottom, Lower Ed
-Richard Powers, Galetea 2.2
-Richard Rodriguez, The Hunger of Memory
-Zadie Smith, On Beauty
-Lev Grossman, The Magicians
++ Tressie McMillan Cottom, Lower Ed
++ Richard Powers, Galetea 2.2
++ Richard Rodriguez, The Hunger of Memory
++ Zadie Smith, On Beauty
++ Lev Grossman, The Magicians
 
 The books are available at the bookstore. You are also welcome to buy the books online or at a different store. Be aware that you need to have your own copy of the specific edition of each of the books listed above. All other texts will be available on Dropbox unless otherwise specified. Please print out, read, mark up, and bring to class ALL of the texts assigned as required reading for each week (this subject to modification in class).
 
