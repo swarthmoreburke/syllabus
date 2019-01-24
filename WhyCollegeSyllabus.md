@@ -23,7 +23,7 @@ Lecture: a brief history of higher ed in the US
 
 Reading/viewing:
 + [The Freshman (1925, 1 hour 15 minutes)](https://swarthmore.kanopy.com/video/freshman)
-+ Higher Learning (1995, 2 hours 7 minutes)
++ [Higher Learning (1995, 2 hours 7 minutes)](https://proxy.swarthmore.edu/login?qurl=https%3A%2F%2Fdigitalcampus.swankmp.net%2Fswarthmore335402%2Fwatch%3Ftoken%3D011a33072a13ba3d2c768ed0b3d9d31940377f4ffd32b7adc109475b401650e9)
 + Media U, Introduction
 + Labaree, A Perfect Mess, Conclusion (Ch. 9)
 
