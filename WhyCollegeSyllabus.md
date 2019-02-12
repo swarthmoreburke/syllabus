@@ -74,13 +74,13 @@ Workshop: revising your *Lower Ed* review
 Lecture: Struggles over the purpose of education: a primer for reading contemporary public debate
 
 Reading
-+ W.E.B. Dubois, "Of the Wings of Atalanta,"" *The Souls of Black Folk*
++ W.E.B. Dubois, "Of the Wings of Atalanta,"" *The Souls of Black Folk* (https://babel.hathitrust.org/cgi/pt?id=osu.32435003762192;view=1up;seq=15)
 + W.E.B. Dubois, ["Of the Training of Black Men" (1902)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
-+ W.E.B. Dubois, "The Afterthought", *The Souls of Black Folk*
++ W.E.B. Dubois, "The Afterthought", *The Souls of Black Folk* (https://babel.hathitrust.org/cgi/pt?id=osu.32435003762192;view=1up;seq=15)
 + Booker T. Washington, ["The Awakening of the Negro" (1896)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
 + Book T. Washington, ["The Fruits of Industrial Training" (1903)](https://www.theatlantic.com/magazine/archive/1903/10/the-fruits-of-industrial-training/531030/)
 + Anna J Cooper, [“The Higher Education of Women” in *A Voice from the South*, 1892](https://docsouth.unc.edu/church/cooper/cooper.html#coope48)
-+ Lani Guinier, from The Tyranny of the Meritocracy, Chapter Three (2015)
++ Lani Guinier, Tyranny of the Meritocracy, Interview. (https://www.insidehighered.com/news/2015/02/03/qa-lani-guinier-about-her-new-book-college-admissions)
 
 Writing:
 + final draft of Lower Ed review due
