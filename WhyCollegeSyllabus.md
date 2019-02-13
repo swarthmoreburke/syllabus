@@ -5,7 +5,8 @@
 + Swarthmore College
 + Spring 2019, Monday, 1:15-4 pm
 + Kohlberg 116
-+ Office hours:
++ Professor Burke office hours:
++ Professor Buurma office hours: W 2-4 pm, LPAC 302
 
 This writing-intensive first-year seminar asks why we go to college - as individuals and as social groups. Why does college matter, and to whom? Drawing on evidence including memoirs, fiction, opinion essays, demographic data, sociological writing, course catalogs and syllabi, and much more, we will example how access and financial aid, curricular decisions, diversity, inequality, governance, and knowledge production play out in the context of liberal arts education.
 
@@ -206,13 +207,12 @@ Wrap-up and final presentations
 
 ### Course Objectives
 
-To teach students to compose effective arguments and write compelling prose across multiple genres of writing commonly found in public writing about higher education.
-
-The course will teach students to write alone, to workshop individually-authored writing with peers, to receive and integrate feedback from instructors, and to write and revise multi-authored pieces. The course includes twenty pages of writing with significant required revisions, in-classroom writing instruction, in-class peer workshops, and individual and collective conferences with instructors. Writing in this course emphasizes both individual and collaborative modes of composition and revision.
+We have designed this course to help first-year students connect their own experiences with and aspirations for college to long-running conversations and debates about the nature and purpose of higher education. Students will learn to understand the histories that have shaped their current experiences, and to critically interpret controversies and questions surrounding academic institutions. They will be asked to apply their learning experiences to inform and shape the ongoing work of the Aydelotte Foundation in pursuit of these same questions and concerns.
 
 Students will learn to draw upon the shared and divergent methodologies of literary study, history and adjacent disciplines in shaping and revising their written work in the class. We will not just teach techniques and approaches to the interpretation of class materials, but also competing and complementary ideas about the purpose of interpretation. This seminar is intended not only to contrast and compare two disciplinary modes of understanding, but to provide a road map to other disciplinary approaches that might be fruitful.
 
-We have designed this course to help first-year students connect their own experiences with and aspirations for college to long-running conversations and debates about the nature and purpose of higher education. Students will learn to understand the histories that have shaped their current experiences, and to critically interpret controversies and questions surrounding academic institutions. Students will be asked to apply their learning experiences to inform and shape the ongoing work of the Aydelotte Foundation in pursuit of these same questions and concerns.
+We also aim teach students to compose effective arguments and write compelling prose across multiple genres of writing commonly found in public writing about higher education. We will teach students to write alone, to workshop individually-authored writing with peers, to receive and integrate feedback from instructors, and to write and revise multi-authored pieces. The course includes twenty pages of writing with significant required revisions, in-classroom writing instruction, in-class peer workshops, and individual and collective conferences with instructors. Writing in this course emphasizes both individual and collaborative modes of composition and revision.
+
 
 ### Course Format
 
