@@ -75,8 +75,8 @@ Workshop: revising your *Lower Ed* review
 Lecture: Struggles over the purpose of education: a primer for reading contemporary public debate
 
 Reading
-+ W.E.B. Dubois, "Of the Wings of Atalanta,"" *The Souls of Black Folk* (IN DROPBOX)
-+ W.E.B. Dubois, ["Of the Training of Black Men" (1902)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
++ W.E.B. Dubois, "Of the Wings of Atalanta,"" in *The Souls of Black Folk*, p 54-62 (IN DROPBOX)
++ W.E.B. Dubois, ["Of the Training of Black Men" (first published 1902, *Atlantic Magazine*) *The Souls of Black Folk*, 63-76 (IN DROPBOX)
 + W.E.B. Dubois, "The Afterthought", *The Souls of Black Folk* (IN DROPBOX)
 + Booker T. Washington, ["The Awakening of the Negro" (1896)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
 + Book T. Washington, ["The Fruits of Industrial Training" (1903)](https://www.theatlantic.com/magazine/archive/1903/10/the-fruits-of-industrial-training/531030/)
