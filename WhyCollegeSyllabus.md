@@ -78,7 +78,7 @@ Reading
 + W.E.B. Dubois, "Of the Wings of Atalanta,"" in *The Souls of Black Folk*, p 54-62 (IN DROPBOX)
 + W.E.B. Dubois, ["Of the Training of Black Men" *The Souls of Black Folk*, 63-76 (first published 1902, *Atlantic Magazine*) (IN DROPBOX)
 + W.E.B. Dubois, "The Afterthought", *The Souls of Black Folk*, p 178 (IN DROPBOX)
-+ Booker T. Washington, ["The Awakening of the Negro" (1896)](https://www.theatlantic.com/magazine/archive/1902/09/of-the-training-of-black-men/308774/)
++ Booker T. Washington, ["The Awakening of the Negro" (1896)](https://www.theatlantic.com/magazine/archive/1896/09/the-awakening-of-the-negro/305449/)
 + Book T. Washington, ["The Fruits of Industrial Training" (1903)](https://www.theatlantic.com/magazine/archive/1903/10/the-fruits-of-industrial-training/531030/)
 + Anna J Cooper, [“The Higher Education of Women” in *A Voice from the South*, 1892](https://docsouth.unc.edu/church/cooper/cooper.html#coope48)
 + Lani Guinier, Interview on her book Tyranny of the Meritocracy (https://www.insidehighered.com/news/2015/02/03/qa-lani-guinier-about-her-new-book-college-admissions)
