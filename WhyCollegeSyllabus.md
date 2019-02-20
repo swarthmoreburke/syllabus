@@ -95,7 +95,7 @@ Lecture: Pedagogy: what it is, how it happens, how college faculty experience it
 
 Reading:
 + Fred Moton and Stefano Harney, “The University and the Undercommons,” [The Undercommons: Fugitive Planning and Black Study](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)
-+ Josephine Miles, Fields of Learning
++ Josephine Miles, read the poems "Fields of Learning," "Chemistry," "Economics," "Office," "History," "North Gate," and "Paths" in *Fields of Learning*
 + Sara Ahmed, [Against Students](https://feministkilljoys.com/2015/06/25/against-students/)
 + Kristen Doerer, [“Colleges Are Getting Smarter About Student Evaluations. Here’s How,” Chronicle of Higher Education](https://www.chronicle.com/article/Colleges-Are-Getting-Smarter/245457)
 
