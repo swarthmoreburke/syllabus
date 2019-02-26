@@ -110,8 +110,8 @@ Lecture: In Loco Parentis, Moral Citizenship: The More Things Change?
 
 Reading:
 + [“Magill’s 100 Rules For Conduct”](http://swat150.swarthmore.edu/magills-rules-1.html)
-+ [Black Liberation 1969 website](https://blacklib1969.swarthmore.edu/)
-+ Michael Sokolove, [“A University Comes Undone: How Scandal and Corruption Brought Down a College Powerhouse”, Chronicle of Higher Education, September 28 2018](https://www.chronicle.com/article/How-ScandalCorruption/244666)
++ Clinton Etheridge, "The Crucible of Character" (https://blacklib1969.swarthmore.edu/items/show/805) at the [Black Liberation 1969 website](https://blacklib1969.swarthmore.edu/)
++ Vimal Patel, [“The New In Loco Parentis”, Chronicle of Higher Education, Feb. 18, 2019 ](https://www.chronicle.com/interactives/Trend19-InLoco-Main)
 + Anand Giridharadas, Winners Take All: The Elite Charade of Changing the World, Chapter One
 + Scenes: [“Animal House”](https://www.youtube.com/watch?v=ROxvT8KKdFw&t=78s)
 
